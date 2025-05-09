@@ -10,5 +10,11 @@
     "artist": "John Doe",
     "src": "https://eros1012.github.io/music-assets/music/song2.mp3",
     "image": "https://eros1012.github.io/music-assets/thumbnails/IMG_9573.JPEG"
+  },
+  {
+    "name": "song3",
+    "artist": "Jane Smith",
+    "src": "https://eros1012.github.io/music-assets/music/song3.mp3",
+    "image": "https://eros1012.github.io/music-assets/thumbnails/IMG_9624.JPEG"
   }
 ]
