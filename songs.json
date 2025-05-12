@@ -3,6 +3,12 @@
     "name": "Can't Help Falling in Love",
     "artist": "Elvis Presley",
     "src": "https://eros1012.github.io/music-assets/music/Can't Help Falling in Love.m4a",
-    "image": "https://eros1012.github.io/music-assets/thumbnails/IMG_9624.JPEG"
+    "image": "https://eros1012.github.io/music-assets/thumbnails/img1.JPEG"
+  },
+  {
+    "name": "I'm Yours",
+    "artist": "Jason Mraz",
+    "src": "https://eros1012.github.io/music-assets/music/Im yours.m4a",
+    "image": "https://eros1012.github.io/music-assets/thumbnails/img2.JPEG"
   }
 ]
